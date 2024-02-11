@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am currently an Engineering Science student at the University of Oxford.
 
 <!--
 **lamlamnt/lamlamnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
